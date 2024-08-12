@@ -1,7 +1,6 @@
 package org.example.bio;
 
 
-import org.apache.log4j.Logger;
 
 import java.io.InputStream;
 import java.io.OutputStream;
